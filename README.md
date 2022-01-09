@@ -6,4 +6,7 @@
   * vehicle_length
   * vehicle_weight
   * ground_clearance
-* Since the p-value is far below .05 (.0000000000535) the slope of the line is not zero.
+* Since the p-value is far below .05 (.0000000000535) the slope of the line is not zero.  Rejecting the null hypotheses.
+* Due to the R-squared being 0.71 or 71% this linear model can be used to predict the MPG of the MechaCar prototypes, but could be improved upon.
+
+
